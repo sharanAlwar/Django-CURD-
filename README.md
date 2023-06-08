@@ -13,14 +13,13 @@ Welcome to Django CURD (Create, Update, Retrieve, Delete) - a project that demon
 
 Before getting started, make sure you have the following installed:
 
-- Python (version X.X.X)
-- Django (version X.X.X)
-- [List any additional dependencies or software needed]
+- Python 
+- Django 
 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/sharanAlwar/Django-CURD-.git
 
 2. Navigate to the project directory:
 cd django-curd
